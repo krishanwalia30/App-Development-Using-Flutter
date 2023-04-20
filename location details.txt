@@ -1,0 +1,3 @@
+the flutter is in d drive 
+the vs code is in c drive
+the android studio is in d drive

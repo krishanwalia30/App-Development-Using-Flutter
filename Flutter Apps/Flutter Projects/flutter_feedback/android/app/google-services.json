@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313283597917",
+    "project_id": "feedback-form-84d9c",
+    "storage_bucket": "feedback-form-84d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313283597917:android:d4f012156784c816a71fb4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_feedback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313283597917-no261nr9fj1d646hj9pqlfon4h6lab5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3OLcNpmhHuH3IU3iDk4Sthx2ZV4fKcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313283597917-no261nr9fj1d646hj9pqlfon4h6lab5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
